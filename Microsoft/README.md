@@ -1,6 +1,6 @@
 ### Challenge Company 1 : Microsoft 
 
-| Day | Company | Problem | Solution |
+|  | Company | Problem | Solution |
 | --- | --- | --- | --- |
 | 1 | Microsoft | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution]()
 | 2 | Microsoft | [Combination Sum with a twist.](https://leetcode.com/problems/combination-sum-iii/) | [Solution]()
