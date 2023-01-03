@@ -2,10 +2,10 @@
 
 |  | Company | Problem | Solution |
 | --- | --- | --- | --- |
-| 1 | Microsoft | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution]()
-| 2 | Microsoft | [Combination Sum with a twist.](https://leetcode.com/problems/combination-sum-iii/) | [Solution]()
-| 3 | Microsoft | [Bulls and Cows.](https://leetcode.com/problems/bulls-and-cows/) | [Solution]()
-| 4 | Microsoft | [You are given an integer array nums of length n. Return maximum length of Rotation Function.](https://leetcode.com/problems/rotate-function/) | [Solution]()
+| 1 | Microsoft | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Microsoft/Evaluate_Reverse_Polish_Notation.cpp)
+| 2 | Microsoft | [Combination Sum with a twist.](https://leetcode.com/problems/combination-sum-iii/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Microsoft/Combination_Sum_III.cpp)
+| 3 | Microsoft | [Bulls and Cows.](https://leetcode.com/problems/bulls-and-cows/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Microsoft/Bulls_and_Cows.cpp)
+| 4 | Microsoft | [You are given an integer array nums of length n. Return maximum length of Rotation Function.](https://leetcode.com/problems/rotate-function/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Microsoft/Rotate_Function.cpp)
 | 5 | Microsoft | [Largest Divisible Subset.](https://leetcode.com/problems/largest-divisible-subset/) | [Solution]()
 | 6 | Microsoft | [How to find a perfect Rectangle.](https://leetcode.com/problems/perfect-rectangle/) | [Solution]()
 | 7 | Microsoft | [Scheduling a Course.](https://leetcode.com/problems/course-schedule/) | [Solution]()
