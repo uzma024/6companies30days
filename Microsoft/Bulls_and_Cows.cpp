@@ -11,23 +11,21 @@ public:
             if(guess[i]==secret[i]){
                 b++;
             }else{
-                m1[guess[i]]++;
-                m2[secret[i]]++;
+                m1[secret[i]]++;
+                m2[guess[i]]++;
             }
         }
 
         for(auto i:m1){
-            char c=i.first;
-            if(m2.find(c)!=m2.end()){
-                c+=min(m1[c],m2[c]);
+            char ch=i.first;
+            // cout<<ch<<" : "<<m1[c]<<","<<m2[c]<<endl;
+            if(m2.find(ch)!=m2.end()){
+                c+=min(m1[ch],m2[ch]);
             }
         }
         
         string s="";
-        s+=('0'+b);
-        s+='A';
-        s+=('0'+c);
-        s+='B';
+        s=to_string(b)+"A"+to_string(c)+"B";
 
         return s;
     }
