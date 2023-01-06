@@ -2,8 +2,8 @@
 
 |  | Difficulty | Problem | Solution |
 | --- | --- | --- | --- |
-| 1 | Medium | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Goldman%20Sachs/Max_Points_on_a_Line.cpp)
-| 2 | Medium | [Valid Square](https://leetcode.com/problems/valid-square/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Goldman%20Sachs/)
+| 1 | Hard | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Goldman%20Sachs/Max_Points_on_a_Line.cpp)
+| 2 | Medium | [Valid Square](https://leetcode.com/problems/valid-square/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Goldman%20Sachs/Valid_Square.cpp)
 | 3 | Medium | [Factorial with Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Goldman%20Sachs/)
 | 4 | Medium | [Number of Boomerangs (Similar to peacocks question)](https://leetcode.com/problems/number-of-boomerangs/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Goldman%20Sachs/)
 | 5 | Medium | [Split Array into Sequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Goldman%20Sachs/)

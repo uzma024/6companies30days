@@ -9,7 +9,7 @@
 | 5 | Medium | [Largest Divisible Subset.](https://leetcode.com/problems/largest-divisible-subset/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Microsoft/Largest_Divisible_Subset.cpp)
 | 6 | Hard | [How to find a perfect Rectangle.](https://leetcode.com/problems/perfect-rectangle/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Microsoft/Perfect_Rectangle.cpp)
 | 7 | Medium | [Scheduling a Course.](https://leetcode.com/problems/course-schedule/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Microsoft/course_schedule.cpp)
-| 8 | Microsoft | [Profitable Path in a Tree.](https://leetcode.com/problems/most-profitable-path-in-a-tree/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Microsoft/)
+| 8 | Microsoft | [Profitable Path in a Tree.](https://leetcode.com/problems/most-profitable-path-in-a-tree/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Microsoft/most-profitable-path-in-a-tree.cpp)
 | 9 | Hard | [Number of Pairs satisfying Inequality.](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Microsoft/Number_of_Pairs_Satisfying_Inequality.cpp)
 | 10 | Medium | [Shortest Unsorted continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Microsoft/shortest-unsorted-continuous-subarray.cpp)
 | 11 | Medium | [Number of ways to arrive at a Destination.](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Microsoft/number-of-ways-to-arrive-at-destination.cpp)
