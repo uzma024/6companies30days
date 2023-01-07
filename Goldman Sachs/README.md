@@ -6,7 +6,7 @@
 | 2 | Medium | [Valid Square](https://leetcode.com/problems/valid-square/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Goldman%20Sachs/Valid_Square.cpp)
 | 3 | Medium | [Factorial with Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Goldman%20Sachs/Factorial_Trailing_Zeroes.cpp)
 | 4 | Medium | [Number of Boomerangs (Similar to peacocks question)](https://leetcode.com/problems/number-of-boomerangs/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Goldman%20Sachs/Number_of_Boomerangs.cpp)
-| 5 | Medium | [Split Array into Sequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Goldman%20Sachs/)
+| 5 | Medium | [Split Array into Sequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Goldman%20Sachs/Split_Array_into_Consecutive_Subsequences.cpp)
 | 6 | Medium | [Minimum Consecutive Cards to pick up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Goldman%20Sachs/)
 | 7 | Medium | [Count Good Triplets in Array (Profits in a Startup Question)](https://leetcode.com/problems/count-good-triplets-in-an-array/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Goldman%20Sachs/)
 | 8 | Medium | [Maximum Points in Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Goldman%20Sachs/)
