@@ -12,5 +12,8 @@
 | 8 | Medium | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Flipkart/Custom_Sort_String.cpp)
 | 9 | Medium | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Flipkart/Find_the_Winner_of_the_Circular_Game.cpp)
 | 10 | Medium | [New 21 Game](https://leetcode.com/problems/new-21-game/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Flipkart/New_21_Game.cpp)
-| 11 | Medium | []() | [Solution](https://github.com/uzma024/6companies30days/blob/main/Flipkart/)
-
+| 11 | Medium | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Flipkart/Distant_Barcodes.cpp)
+| 12 | Medium | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [Solution](https://github.com/uzma024/6companies30days/blob/main/Flipkart/City_With_the_Smallest_Number_of_Neighbors.cpp)
+| 13 | Medium | []() | [Solution](https://github.com/uzma024/6companies30days/blob/main/Flipkart/)
+| 14 | Medium | []() | [Solution](https://github.com/uzma024/6companies30days/blob/main/Flipkart/)
+| 15 | Medium | []() | [Solution](https://github.com/uzma024/6companies30days/blob/main/Flipkart/)
